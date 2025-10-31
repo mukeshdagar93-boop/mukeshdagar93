@@ -1,5 +1,6 @@
+
 {
-  "name": "Excel to PDF Converter",
-  "description": "A web-based tool to convert Excel files (.xlsx, .xls) into PDF documents directly in your browser. Upload your file, and get a downloadable PDF in seconds.",
+  "name": "PDF for Kamlesh Mehta",
+  "description": "A powerful and easy-to-use web application to merge multiple PDF files into a single document. Upload, reorder, and combine your PDFs in seconds, all within your browser.",
   "requestFramePermissions": []
 }
