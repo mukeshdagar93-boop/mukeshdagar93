@@ -1,0 +1,5 @@
+{
+  "name": "Excel to PDF Converter",
+  "description": "A web-based tool to convert Excel files (.xlsx, .xls) into PDF documents directly in your browser. Upload your file, and get a downloadable PDF in seconds.",
+  "requestFramePermissions": []
+}
